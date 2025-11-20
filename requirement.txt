@@ -1,0 +1,9 @@
+torch>=1.12.0
+torchvision
+numpy
+imageio
+tqdm
+pillow
+scipy
+matplotlib
+
